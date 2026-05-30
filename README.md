@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Aishwarya 👋
 
-<!--
-**aishwaryamath72-ashu/aishwaryamath72-ashu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student
 
-Here are some ideas to get you started:
+💻 AI/ML Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Python Developer
+
+📊 Interested in Data Science and Machine Learning
+
+🚀 Currently learning Deep Learning
+
+📚 Open to Internship Opportunities
+
+## Skills
+
+* Python
+* Machine Learning
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-Learn
+* Git & GitHub
+
+## Projects
+
+### Customer Purchase Prediction and Segmentation
+
+Machine Learning project using classification, clustering, PCA, confusion matrix, ROC-AUC, and feature importance analysis.
+
+### Student Performance Prediction
+
+Predicting student marks using Machine Learning techniques.
+
+### Spam Email Classifier
+
+Classifying emails as spam or not spam using Machine Learning.
